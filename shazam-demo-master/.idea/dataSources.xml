@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="shazam_demo.db" uuid="a3cfc6b8-d424-4a70-aabe-8b0499ad2242">
+    <data-source source="LOCAL" name="shazam_demo.db" uuid="f6be2bee-b262-49f5-8b8f-fb7249257d59">
       <driver-ref>sqlite.xerial</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
